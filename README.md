@@ -1,6 +1,6 @@
 shuhei1110
 
--Data Scientist
+Data Scientist
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhei1110
