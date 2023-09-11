@@ -1,7 +1,7 @@
 shuhei1110
 
 Data Scientist
-
+I'm a 2nd-year master's student
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhei1110
 )](https://github.com/anuraghazra/github-readme-stats)
